@@ -1,0 +1,6 @@
+framework module Pods_NPOnline_NPOnlineUITests {
+  umbrella header "Pods-NPOnline-NPOnlineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

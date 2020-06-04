@@ -1,0 +1,20 @@
+{
+    "NPBaseViewController": {
+        "backgroundColor": "#000000"
+    },
+    "NPHomeViewController": {
+        "testLabel": {
+            "backgroundColor": "#6A5ACD",
+            "textColor": "#FFB6C1"
+        }
+    },
+    "UIStatusBarStyle": "LightContent",
+    "Global": {
+        "ViewControllerBackgroundColor": "#000000",
+        "textColor": "#6F40F8"
+    },
+    "Tabbar": {
+        "backgroundColor": "#000000"
+    }
+}
+

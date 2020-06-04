@@ -1,0 +1,6 @@
+framework module Pods_NPOnline {
+  umbrella header "Pods-NPOnline-umbrella.h"
+
+  export *
+  module * { export * }
+}
